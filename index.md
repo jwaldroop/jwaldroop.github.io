@@ -10,9 +10,9 @@
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
 
 *__Project Team:__*
-
+<br/>
 __Jordan Waldroop, Jack Beck, Dria Fabrizio__
-
+</br>
 ---
 ### Project Links
 
