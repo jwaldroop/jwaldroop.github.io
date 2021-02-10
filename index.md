@@ -22,7 +22,7 @@
 ### Project Links
 
 - [Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression.git/)
-- [Project 2 Title](http://example.com/)
+  - [Final Report](https://github.com/indyscout97/carMPGregregression/blob/main/MSBC%205030%20Final%20Report.pdf/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
