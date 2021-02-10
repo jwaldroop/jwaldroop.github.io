@@ -6,8 +6,8 @@
 
 ### Projects  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression.git/)
+<img src="images/All_The_Logs_Scatter.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -21,7 +21,7 @@
 
 ### Project Links
 
-- [Project 1 Title](http://example.com/)
+- [Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression.git/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
