@@ -10,6 +10,7 @@
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
 
 ---
+### Project Links
 
 - [Car MPG Regression Analysis Repo](https://github.com/indyscout97/carMPGregregression.git/)
   - [Final Report](https://github.com/indyscout97/carMPGregregression/blob/main/MSBC%205030%20Final%20Report.pdf/)
