@@ -9,11 +9,15 @@
 [Car MPG Regression Analysis](https://github.com/indyscout97/carMPGregregression.git/)
 <img src="images/All_The_Logs_Scatter.png?raw=true"/>
 
+*__Project Team:__*
+__Jordan Waldroop, Jack Beck, Dria Fabrizio__
+
 ---
 ### Project Links
 
 - [Car MPG Regression Analysis Repo](https://github.com/indyscout97/carMPGregregression.git/)
   - [Final Report](https://github.com/indyscout97/carMPGregregression/blob/main/MSBC%205030%20Final%20Report.pdf/)
+  - [R Code](https://github.com/indyscout97/carMPGregregression/blob/main/Final%20Project%20-%20Team%206.R)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
