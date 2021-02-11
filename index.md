@@ -26,20 +26,19 @@ __Jordan Waldroop, Jack Beck, Dria Fabrizio__
 
 ---
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Apartment Complex SQL Project](https://github.com/jwaldroop/apartment_complex_project.git)
+<img src="images/rent_with_us_vis.png?raw=true"/>
+
+*__Project Team:__*
+<br/>
+__Jordan Waldroop, Jack Beck, Sam Alqarzi, Isaac Everitt, & Cody Rogers__
 
 ---
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Apartment Complex SQL Project Links:
 
----
-
-### Project Links
-
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Apartment Complex SQL Project Repo](https://github.com/jwaldroop/apartment_complex_project.git)
+  - [Final Report](https://github.com/jwaldroop/apartment_complex_project/blob/main/FINAL%20Compiled%20Report.pdf)
+  - [MySQL Schema Dump](https://github.com/jwaldroop/apartment_complex_project/blob/main/rentwithus_dump.sql)
 
 ---
