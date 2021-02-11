@@ -27,7 +27,7 @@ __Jordan Waldroop, Jack Beck, Dria Fabrizio__
 ---
 
 [Apartment Complex SQL Project](https://github.com/jwaldroop/apartment_complex_project.git)
-<img src="images/rent_with_us_vis.png?raw=true"/>
+<img src="images/rent_with_us_vis.jpg?raw=true"/>
 
 *__Project Team:__*
 <br/>
