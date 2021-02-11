@@ -1,7 +1,5 @@
 # Portfolio
 
-#### This page is still being developed
-
 ---
 
 ## Analytics Projects
