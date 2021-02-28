@@ -25,11 +25,21 @@ __Jordan Waldroop, Jack Beck, Dria Fabrizio__
   ---  
 
   [URL Phishing Predictions](https://github.com/jwaldroop/phishing-url-project.git)
-  <img src="images/rocpic_phishing.png?raw=true"/>
+  <img src="images/binary_acc_phishing_nn_round_1.png?raw=true"/>
+
+  *This project is still in progress*
 
   *__Project Team:__*
   <br/>
   __Jordan Waldroop, Jack Beck__
+
+  ---
+
+  #### URL Phishing Prediction Project Links:
+
+  - [URL Phishing Prediction Project Repo](https://github.com/jwaldroop/phishing-url-project)
+    - [Neural Network Code (Round 1 Testing)](https://github.com/jwaldroop/phishing-url-project/commit/928fa3be0af1ac1388574be5a8474504456f5f46)
+    - [Dataset](https://github.com/jwaldroop/phishing-url-project/blob/main/dataset_full.csv)
 
 
 ---
