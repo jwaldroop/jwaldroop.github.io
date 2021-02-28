@@ -35,7 +35,7 @@ __Jordan Waldroop, Jack Beck, Dria Fabrizio__
 
   ---
 
-  #### URL Phishing Prediction Project Links:
+#### URL Phishing Prediction Project Links:
 
   - [URL Phishing Prediction Project Repo](https://github.com/jwaldroop/phishing-url-project)
     - [Neural Network Code (Round 1 Testing)](https://github.com/jwaldroop/phishing-url-project/commit/928fa3be0af1ac1388574be5a8474504456f5f46)
