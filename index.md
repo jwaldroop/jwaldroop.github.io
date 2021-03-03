@@ -61,3 +61,9 @@ __Jordan Waldroop, Jack Beck, Sam Alqarzi, Isaac Everitt, & Cody Rogers__
   - [MySQL Schema Dump](https://github.com/jwaldroop/apartment_complex_project/blob/main/rentwithus_dump.sql)
 
 ---
+
+## Miscellaneous Projects (non-analytics)
+
+- [Miscellaneous Project Repo](https://github.com/jwaldroop/undergrad-projects)
+  - [Senior Thesis // Early Warning Systems and the Role of Humans](https://github.com/jwaldroop/undergrad-projects/blob/main/Early%20Warning%20Systems%20and%20the%20Role%20of%20Humans.pdf)
+  - [Literature Review // MP Party Affiliation: How it Influenced Constituents' Votes in the EU Referendum](https://github.com/jwaldroop/undergrad-projects/blob/main/MP%20Party%20Affiliation-%20How%20it%20Influenced%20Constituents'%20Vote%20in%20the%20EU%20Referendum.pdf)
